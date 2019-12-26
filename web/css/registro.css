@@ -1,0 +1,12 @@
+.container-registro{
+    background: #2196F3;
+    width: 45%;
+    padding: 12px;
+}
+#tituloRegistro{
+    color: #FFFFFF;
+}
+.container-registro input{
+    width: auto;
+    height: 30px;
+}
